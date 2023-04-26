@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Piyush Sharma</h1>
 <h3 align="center">WELCOME TO MY GITHUB PROFILE. I am an aspiring developer and open source contributor from India.</h3>
 
+<img align="right" alt="readme image" width="400" src="https://media2.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif?cid=ecf05e474981gs12h10rzvd0cpvbm5rf4rir95vj9i0ihvx8&rid=giphy.gif&ct=g">
+
+
 - 📫 How to reach me **2205piyush@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
